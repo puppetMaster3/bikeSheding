@@ -41,7 +41,7 @@ function open(ht, cb_):void {
 function forward(ht, id, cb_):void {
     console.log(viewDir) // todo: tx?
 	$.get(viewDir + ht + '.html', function (resp_) {
-		console.log(ht, id)
+		//console.log(ht, id)
 		    $('#kontainer').append(resp_)
 		var cur = $('#' + id)
 		var gid = id + Math.floor(Math.random() * 9999999) //GUID 1 in 10mm
@@ -65,3 +65,8 @@ function cleanUpViews():void {
 	}
 	//console.log(views.length)
 }//()
+
+function isEmailValid(email) {
+    var re = /\S+@\S+\.\S+/;
+    return re.test(email);
+}

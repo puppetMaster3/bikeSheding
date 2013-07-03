@@ -19,7 +19,6 @@ function open(ht, cb_) {
 function forward(ht, id, cb_) {
     console.log(viewDir);
     $.get(viewDir + ht + '.html', function (resp_) {
-        console.log(ht, id);
         $('#kontainer').append(resp_);
         var cur = $('#' + id);
         var gid = id + Math.floor(Math.random() * 9999999);
@@ -43,5 +42,9 @@ function cleanUpViews() {
         old.parentNode.removeChild(old);
         views = $('#kontainer').children();
     }
+}
+function isEmailValid(email) {
+    var re = /\S+@\S+\.\S+/;
+    return re.test(email);
 }
 //@ sourceMappingURL=bikeSheding.js.map
