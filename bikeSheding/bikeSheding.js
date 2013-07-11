@@ -47,4 +47,21 @@ function isEmailValid(email) {
     var re = /\S+@\S+\.\S+/;
     return re.test(email);
 }
+function loadAppScript(src, cb) {
+    var s, r, t;
+    r = false;
+    s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.src = src;
+    s.onload = s.onreadystatechange = function () {
+        if(!r && (!this.readyState || this.readyState == 'complete')) {
+            r = true;
+            if(cb) {
+                cb();
+            }
+        }
+    };
+    t = document.getElementsByTagName('script')[0];
+    t.parent.insertBefore(s, t);
+}
 //@ sourceMappingURL=bikeSheding.js.map
