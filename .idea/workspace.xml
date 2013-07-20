@@ -2,23 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60713f6c-11c8-460a-9408-29a29c81191b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/aCDN/assets/cloud.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/aCDN/assets/cloudAPI.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/aCDN/assets/parallax_clouds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/Blueprint- On Scroll Effect Layout - Codrops.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CODAME+GAMES • Video Recording from Vic Cekvenich available.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/CSSDesk - Online CSS Sandbox.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex2/Icon Deposit CSS3 UI Kit (Source Code) - Icon Deposit.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex2/Into the Arctic - Greenpeace.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex2/Live Tools - Form Builder.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex1/SUPERSCROLLORAMA.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/The Guide To CSS Animation- Principles and Examples - Smashing Coding.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/Troubleshooting CSS - Codrops.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/aCDN/app/app2.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/aCDN/app/app2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/aCDN/app/app2.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/ROOT/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/jakiestfu-Snap.js.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/list_.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex1/site-scdn-view-tutorial_inner.html at master · puppetMaster3-site.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/aCDN/views/view1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/aCDN/views/view2.html" />
+      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\hero.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.js.map" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.js" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/views/view2.html" afterPath="$PROJECT_DIR$/ex2/aCDN/views/view2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bikeSheding.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374357900940" ignored="false" />
+    <file path="/Dummy.txt" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374360603554" ignored="false" />
     <file path="/view1.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374354828847" ignored="false" />
     <file path="/app.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374354642338" ignored="false" />
-    <file path="/app2.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374357770972" ignored="false" />
+    <file path="/app2.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374358976731" ignored="false" />
     <file path="/bikeSheding.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374355790065" ignored="false" />
     <file path="/view2.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374357576925" ignored="false" />
+    <file path="C:/tmp/Troubleshooting CSS - Codrops.url" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374359677657" ignored="false" />
+    <file path="C:/tmp/SUPERSCROLLORAMA.url" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374360212877" ignored="false" />
+    <file path="C:/tmp/site-scdn-view-tutorial_inner.html at master · puppetMaster3-site.url" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374360379452" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,17 +59,7 @@
     <favorites_list name="bikeSheding" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="app2.ts" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="36" selection-start="752" selection-end="752" vertical-scroll-proportion="0.36997885">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -71,15 +83,15 @@
         <option value="$PROJECT_DIR$/bikeSheding/bikeSheding.less" />
         <option value="$PROJECT_DIR$/ex1/ROOT/index.html" />
         <option value="$PROJECT_DIR$/ex2/ROOT/index.html" />
-        <option value="$PROJECT_DIR$/ex2/aCDN/views/view2.html" />
         <option value="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" />
         <option value="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" />
+        <option value="$PROJECT_DIR$/ex2/aCDN/views/view2.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1244" />
-    <option name="width" value="1243" />
+    <option name="x" value="1108" />
+    <option name="width" value="1379" />
     <option name="height" value="1600" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -89,7 +101,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -137,99 +149,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ex2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ROOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aCDN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aCDN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aCDN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aCDN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="ex3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,86 +165,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ex1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ROOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aCDN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aCDN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding.ts" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -337,7 +177,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex1" />
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3" />
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding" />
       <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3" />
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding" />
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2" />
     </key>
   </component>
   <component name="RunManager">
@@ -368,17 +216,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1244" y="0" width="1243" height="1600" extended-state="0" />
+    <frame x="1108" y="0" width="1379" height="1600" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22923589" sideWeight="0.76955014" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32089552" sideWeight="0.7702422" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23024523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22956403" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -450,20 +298,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex2/aCDN/assets/cloudAPI.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -471,9 +305,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex1/aCDN/app/app.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="4" selection-start="469" selection-end="469" vertical-scroll-proportion="0.27116212">
-          <folding />
-        </state>
+        <state line="18" column="4" selection-start="469" selection-end="469" vertical-scroll-proportion="0.27116212" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/aCDN/views/view1.html">
@@ -498,9 +330,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/aCDN/libs/list_.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.js">
@@ -510,14 +340,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/ROOT/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="36" selection-start="736" selection-end="736" vertical-scroll-proportion="-12.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex2/aCDN/views/view2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" />
+        <state line="18" column="36" selection-start="736" selection-end="736" vertical-scroll-proportion="-12.6" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.ts">
@@ -527,9 +350,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="36" selection-start="752" selection-end="752" vertical-scroll-proportion="0.36997885">
-          <folding />
-        </state>
+        <state line="32" column="0" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex2/aCDN/views/view2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="6" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.8344371" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex3/aCDN/app/app2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="12" selection-start="166" selection-end="166" vertical-scroll-proportion="0.09659614" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex3/Troubleshooting CSS - Codrops.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex1/SUPERSCROLLORAMA.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex1/site-scdn-view-tutorial_inner.html at master · puppetMaster3-site.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
   </component>
