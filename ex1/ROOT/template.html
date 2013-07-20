@@ -1,0 +1,25 @@
+<html><head></head><body><!-- start body -->
+
+<button id='addBut' onclick='return false'>Add</button>
+
+<script src='../acdn/libs/cloudAPI.js'></script>
+<script>
+var cloud = new CloudAPI("fim843ffv77")
+
+function onAddClicked() {
+    var msg = cloud.makeFormMessage('formId')
+    console.log(JSON.stringify(msg))
+    cloud.insert('todo', msg, onRet)
+}
+
+function onRet(data, err) {
+    console.log(err)
+    console.log(data)
+    console.log(JSON.stringify(err))
+    console.log(JSON.stringify(data))
+}
+
+document.querySelector('#addBut').addEventListener('click', onAddClicked)
+
+</script>
+</body></html>

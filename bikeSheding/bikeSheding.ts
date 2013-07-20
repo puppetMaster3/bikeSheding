@@ -1,7 +1,9 @@
-/* v0.0612 - 95% of times you should not change this file
+/* v0.0712 - 95% of times you should not change this file
  (c) Vic Cekvenich
 */
 //presenter section
+console.log('bS')
+
 interface IModPresenter {// ~mediator to manage a view(s)/template(s)
 	_transition(transEnum:number, ctx:any):void; //enum
 }
@@ -71,7 +73,13 @@ function isEmailValid(email) {
     return re.test(email);
 }
 
-function loadAppScript(src, cb){
+function getGuerryString(key) {
+    key = key.replace(/[*+?^$.\[\]{}()|\\\/]/g, "\\$&"); // escape RegEx meta chars
+    var match = location.search.match(new RegExp("[?&]"+key+"=([^&]+)(&|$)"));
+    return match && decodeURIComponent(match[1].replace(/\+/g, " "));
+}
+
+function loadScript(src, cb){
     var s,
         r,
         t;

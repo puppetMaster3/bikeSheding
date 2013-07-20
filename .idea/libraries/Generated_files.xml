@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/ex1/aCDN/app/app.js" />
+        <item url="file://$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ex1/aCDN/app/ddapp.js" />
+      <root url="file://$PROJECT_DIR$/ex1/aCDN/app/app.js" />
+      <root url="file://$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
