@@ -3,13 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="62a4be29-6b2d-45aa-8db4-a12c5ad64d92" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex1/ROOT/index.html" afterPath="$PROJECT_DIR$/ex1/ROOT/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bikeSheding.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="62a4be29-6b2d-45aa-8db4-a12c5ad64d92" time="1374350055898" ignored="false" />
-    <file path="/README.md" changelist="62a4be29-6b2d-45aa-8db4-a12c5ad64d92" time="1374351129306" ignored="false" />
+    <file path="/README.md" changelist="62a4be29-6b2d-45aa-8db4-a12c5ad64d92" time="1374351331960" ignored="false" />
     <file path="/index.html" changelist="62a4be29-6b2d-45aa-8db4-a12c5ad64d92" time="1374350677949" ignored="false" />
     <file path="/view1.html" changelist="62a4be29-6b2d-45aa-8db4-a12c5ad64d92" time="1374349055336" ignored="false" />
     <file path="/view2.html" changelist="62a4be29-6b2d-45aa-8db4-a12c5ad64d92" time="1374350133813" ignored="false" />
@@ -46,7 +44,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="2" selection-start="530" selection-end="530" vertical-scroll-proportion="0.27022058">
+            <state line="4" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="0.07720588">
               <folding />
             </state>
           </provider>
@@ -469,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="2" selection-start="530" selection-end="530" vertical-scroll-proportion="0.27022058">
+        <state line="4" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="0.07720588">
           <folding />
         </state>
       </provider>
