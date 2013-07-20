@@ -1,9 +1,10 @@
 /* v0.0712 - 95% of times you should not change this file
- (c) Vic Cekvenich
+ (c) bikeSheding
 */
-//presenter section
+
 console.log('bS')
 
+//presenter section
 interface IModPresenter {// ~mediator to manage a view(s)/template(s)
 	_transition(transEnum:number, ctx:any):void; //enum
 }
@@ -26,17 +27,15 @@ function initHRouter(inst) {
 /*
 Single page section
 */
-declare var $;// selector
-
 var viewDir:string;
 
 function open(ht, cb_):void {
     console.log(viewDir)
 	$.get(viewDir + ht + '.html', function (resp_) {
 		console.log(ht)
-		$('body').append(resp_)
+        $('#kontainer').append(resp_)
 
-		if (cb_) cb_()
+        if (cb_) cb_()
 	})//$.get
 }//()
 

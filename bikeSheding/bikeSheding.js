@@ -14,7 +14,7 @@ function open(ht, cb_) {
     console.log(viewDir);
     $.get(viewDir + ht + '.html', function (resp_) {
         console.log(ht);
-        $('body').append(resp_);
+        $('#kontainer').append(resp_);
 
         if (cb_)
             cb_();
