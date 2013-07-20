@@ -22,7 +22,6 @@ function open(ht, cb_) {
 }
 
 function forward(ht, id, cb_) {
-    console.log(viewDir);
     $.get(viewDir + ht + '.html', function (resp_) {
         $('#kontainer').append(resp_);
         var cur = $('#' + id);

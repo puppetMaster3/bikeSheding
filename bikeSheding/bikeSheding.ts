@@ -43,7 +43,7 @@ function open(ht, cb_):void {
  *  returns #id
  */
 function forward(ht, id, cb_):void {
-    console.log(viewDir) // todo: tx?
+    //console.log(viewDir) // todo: tx?
 	$.get(viewDir + ht + '.html', function (resp_) {
 		//console.log(ht, id)
 		    $('#kontainer').append(resp_)
