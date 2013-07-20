@@ -1,11 +1,11 @@
 /* v0.0712 - 95% of times you should not change this file
- (c) bikeSheding
+ (c) bikeSheding  @ http://github.com/puppetMaster3/bikeSheding
 */
 
 console.log('bS')
 
 //presenter section
-interface IModPresenter {// ~mediator to manage a view(s)/template(s)
+interface IModPresenter {// ~ like direct mediator to manage a view(s)/template(s) and hold state
 	_transition(transEnum:number, ctx:any):void; //enum
 }
 
@@ -39,6 +39,9 @@ function open(ht, cb_):void {
 	})//$.get
 }//()
 
+/**
+ *  returns #id
+ */
 function forward(ht, id, cb_):void {
     console.log(viewDir) // todo: tx?
 	$.get(viewDir + ht + '.html', function (resp_) {
@@ -47,11 +50,13 @@ function forward(ht, id, cb_):void {
 		var cur = $('#' + id)
 		var gid = id + Math.floor(Math.random() * 9999999) //GUID 1 in 10mm
 		cur.attr('id', gid)//change to guid - we could have many
-		console.log(cur.attr('id'))
+		//console.log(cur.attr('id'))
 		if (!cur.attr('id')) throw new Error('id not found')
-		var t:number = $('header').height()
-		var b:number = $('footer').position().top
-		cur.height(b - t)
+		try{
+            var t:number = $('header').height()
+            var b:number = $('footer').position().top
+		    cur.height(b - t)
+        } catch (err) { console.log(err)} // need more view measure functions
 		if (cb_) cb_(gid)
 	})//$.get
 }//()
@@ -67,6 +72,7 @@ function cleanUpViews():void {
 	//console.log(views.length)
 }//()
 
+// misc utils section
 function isEmailValid(email) {
     var re = /\S+@\S+\.\S+/;
     return re.test(email);

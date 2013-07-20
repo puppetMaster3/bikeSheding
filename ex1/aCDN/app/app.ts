@@ -11,12 +11,12 @@ function iloaded1(){
     console.log ("loaded1")
  }
 
-document.querySelector('#load2').addEventListener('click', loadform)
- function loadform(){
+var load2But = document.getElementById('load2')
+load2But.addEventListener('click', function() {
     console.log ("Test")
     open('view2', iloaded2)
 
-}
+    })
 function iloaded2(){
     console.log ("loaded2")
 }
