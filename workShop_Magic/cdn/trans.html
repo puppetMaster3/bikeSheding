@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+
+	<link href='style/base.css' rel='stylesheet'
+         type='text/css'/>
+    <link href='style/Common.css' rel='stylesheet'
+         type='text/css'/>
+    <link href='assets/app.css' rel='stylesheet'
+         type='text/css'/>		 
+
+</head>
+<body  >
+<header id='header' style="display:none;">
+	<div class='headerCont'>
+	My App
+	</div>
+</header>
+	<div id='kontainer' >
+		<!--object type="image/svg+xml" data="assets/back2.svg" style="z-index: -999;"
+			y="0" width="100%" height="100%">
+			<param name="src" value="assets/back2.svg" />
+			<param name="wmode" value="transparent" />
+		</object-->	
+
+	</div>
+<footer id='footer' style="display:none; " >
+	<div class='footerCont'>
+	<button id="a" onclick="app.dispatch('login',null)" >Login</button>
+	<button id="b" onclick="app.dispatch('tlist',null)">List</button>
+	<button id="c" onclick="app.dispatch('tform',null)">Form</button>
+	</div>
+</footer>
+
+<script src='libs/jquery.js'></script>
+<script src='libs/signals.js'></script>
+<script src='libs/hasher.js'></script>
+
+<script src='libs/list.js'></script>
+<script src='libs/TweenLite.js'></script>
+<script src='libs/CSSPlugin.js'></script>
+<script src='libs/string.js'></script>
+
+ <!-- app: -->
+<script src='app/Trans.js'></script>
+</body>
+</html>
