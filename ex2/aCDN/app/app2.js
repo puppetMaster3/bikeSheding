@@ -34,7 +34,7 @@ function iloaded2(id) {
 open('backLayer', 'back', onBackLoaded);
 function onBackLoaded() {
     setTimeout(function () {
-        document.getElementById("animatingTile").style.backgroundImage = "url(http://f6.backendzero.com/scdn/assets/parallax_clouds.png)";
+        document.getElementById("animatingTile").style.backgroundImage = "url(../aCDN/assets/parallax_clouds.png)";
         setupBackground();
     }, 1);
 }
