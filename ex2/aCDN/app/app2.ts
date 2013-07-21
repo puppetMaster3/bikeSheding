@@ -32,9 +32,11 @@ function iloaded2(id){
     console.log ("loaded2")
 }
 
-//open('backLayer', 'content', onBackLoaded)
+open('backLayer', 'back', onBackLoaded)
 function onBackLoaded() {
     setTimeout(function(){
+        document.getElementById("animatingTile").style.backgroundImage=
+            "url(http://f6.backendzero.com/scdn/assets/parallax_clouds.png)"
         setupBackground()
     },1)
 }
@@ -51,6 +53,7 @@ function scrollBackground() {
         inProgress = false;
     }, 800);
 }
+
 function setupBackground() {
     console.log('background:')
     inProgress = false;
