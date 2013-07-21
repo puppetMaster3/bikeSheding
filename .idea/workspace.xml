@@ -2,22 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60713f6c-11c8-460a-9408-29a29c81191b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/Apache Cordova.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/I know jQuery. Now what-.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex3/ca_1.primusapi.com-tst-toDo.html.url" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\ROOT\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\app\app2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\app\app2.js.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\app\app2.ts" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\cloud.gif" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\cloudAPI.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\parallax_clouds.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\libs\list_.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\views\view1.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\views\view2.html" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\ROOT\index.html" afterPath="$PROJECT_DIR$/ex2/ROOT/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/assets/sound1.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/assets/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/assets/back2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/assets/hasher-logo.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\app\Form.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/app/Form.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\app\Lax.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/app/Lax.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\app\Liquid.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/app/Liquid.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\app\Old.js" afterPath="$PROJECT_DIR$/ex1/ROOT/Old.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\app\Trans.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/app/Trans.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\assets\back0.svg" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/assets/back0.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\assets\back2.svg" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/assets/back2.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\assets\spinner.gif" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/assets/spinner.gif" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\lax.html" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/lax.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\CSSPlugin.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/CSSPlugin.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\TweenLite.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/TweenLite.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\hasher.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/hasher.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\jquery-migrate.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/jquery-migrate.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\jquery.endless-scroll.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/jquery.endless-scroll.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\jquery.fittext.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/jquery.fittext.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\jquery.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/jquery.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\jquery.validate.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/jquery.validate.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\list.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/list.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\list.paging.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/list.paging.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\moment.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/moment.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\signals.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/signals.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\libs\string.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/string.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\liquid.html" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/liquid.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\style\Common.css" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/style/Common.css" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\style\base.css" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/style/base.css" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\trans.html" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/trans.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\ts1.html" afterPath="$PROJECT_DIR$/ex1/ROOT/ts1.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\view\Form.html" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/view/Form.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\view\Login.html" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/view/Login.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\cdn\view\TList.html" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/view/TList.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\fw\Common.ts" afterPath="$PROJECT_DIR$/old_workShop_Magic1/fw/Common.ts" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\src\Lax.ts" afterPath="$PROJECT_DIR$/old_workShop_Magic1/src/Lax.ts" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\src\Liquid.ts" afterPath="$PROJECT_DIR$/old_workShop_Magic1/src/Liquid.ts" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic1\src\Trans.ts" afterPath="$PROJECT_DIR$/old_workShop_Magic1/src/Trans.ts" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\app\Layer.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/app/Layer.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\app\Trans.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/app/Trans.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\assets\app.css" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/assets/app.css" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\assets\back2.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/back2.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\assets\hasher-logo.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/hasher-logo.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\assets\sound1.mp3" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/sound1.mp3" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\assets\spinner.gif" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/spinner.gif" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\layer.html" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/layer.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\CSSPlugin.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/CSSPlugin.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\TweenLite.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/TweenLite.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\buzz.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/buzz.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\d3.js" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/libs/d3.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\hasher.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/hasher.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\jquery-migrate.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/jquery-migrate.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\jquery.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/jquery.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\jquery.validate.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/jquery.validate.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\list.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/list.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\list.paging.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/list.paging.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\moment.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/moment.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\signals.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/signals.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\libs\string.js" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/libs/string.js" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\style\Common.css" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/style/Common.css" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\style\base.css" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/style/base.css" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\trans.html" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/trans.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\view\Form.html" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/view/Form.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\view\Left.html" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/view/Left.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\view\Login.html" afterPath="$PROJECT_DIR$/old_workShop_Magic1/cdn/view/Login.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\cdn\view\TList.html" afterPath="$PROJECT_DIR$/old_workShop_Magic2/cdn/view/TList.html" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\fw\Common.ts" afterPath="$PROJECT_DIR$/old_workShop_Magic2/fw/Common.ts" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\src\Layer.ts" afterPath="$PROJECT_DIR$/old_workShop_Magic2/src/Layer.ts" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\workShop_Magic\src\Trans.ts" afterPath="$PROJECT_DIR$/old_workShop_Magic2/src/Trans.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bikeSheding.iws" />
@@ -52,35 +105,7 @@
     <favorites_list name="bikeSheding" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Layer.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workShop_Magic/src/Layer.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Trans.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workShop_Magic/src/Trans.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lax.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/workShop_Magic1/cdn/lax.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -107,12 +132,13 @@
         <option value="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" />
         <option value="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" />
         <option value="$PROJECT_DIR$/ex2/aCDN/views/view2.html" />
+        <option value="$PROJECT_DIR$/workShop_Magic1/cdn/ts1.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1169" />
-    <option name="width" value="1318" />
+    <option name="x" value="1244" />
+    <option name="width" value="1243" />
     <option name="height" value="1600" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -160,196 +186,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="workShop_Magic1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="workShop_Magic1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="workShop_Magic1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cdn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="workShop_Magic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="workShop_Magic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="workShop_Magic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cdn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ROOT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aCDN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aCDN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ex1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -360,10 +196,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex1\ROOT" />
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets" />
       <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3" />
       <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex1" />
       <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding" />
-      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\libs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3" />
@@ -399,13 +236,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1169" y="0" width="1318" height="1600" extended-state="0" />
-    <editor active="true" />
+    <frame x="1244" y="0" width="1243" height="1600" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33620015" sideWeight="0.7702422" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35714287" sideWeight="0.7702422" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -481,94 +318,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex2/aCDN/views/view2.html">
+    <entry file="file://$PROJECT_DIR$/old_workShop_Magic2/cdn/view/TList.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="6" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.8344371" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex3/Troubleshooting CSS - Codrops.url">
+    <entry file="file://$PROJECT_DIR$/old_workShop_Magic2/cdn/style/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/SUPERSCROLLORAMA.url">
+    <entry file="file://$PROJECT_DIR$/old_workShop_Magic2/cdn/style/Common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="33" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0" />
+        <state line="25" column="68" selection-start="418" selection-end="418" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/site-scdn-view-tutorial_inner.html at master · puppetMaster3-site.url">
+    <entry file="file://$PROJECT_DIR$/ex2/aCDN/assets/back2.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/aCDN/app/app.ts">
+    <entry file="file://$PROJECT_DIR$/old_workShop_Magic2/cdn/app/Layer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_workShop_Magic2/src/Layer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="53" selection-start="2379" selection-end="3014" vertical-scroll-proportion="0.5817923">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex3/I know jQuery. Now what-.url">
+    <entry file="file://$PROJECT_DIR$/old_workShop_Magic2/src/Trans.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="3" column="15" selection-start="136" selection-end="180" vertical-scroll-proportion="0.044807967">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex3/ca_1.primusapi.com-tst-toDo.html.url">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex1/aCDN/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex3/Apache Cordova.url">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/workShop_Magic/cdn/libs/buzz.js">
+    <entry file="file://$PROJECT_DIR$/old_workShop_Magic2/cdn/layer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workShop_Magic/cdn/layer.html">
+    <entry file="file://$PROJECT_DIR$/old_workShop_Magic1/src/Lax.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workShop_Magic/fw/Common.ts">
+    <entry file="file://$PROJECT_DIR$/ex1/ROOT/Old.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workShop_Magic/src/Layer.ts">
+    <entry file="file://$PROJECT_DIR$/old_workShop_Magic1/cdn/app/Form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="21" selection-start="734" selection-end="734" vertical-scroll-proportion="0.42917547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex1/ROOT/ts1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="3" selection-start="93" selection-end="93" vertical-scroll-proportion="0.13606912">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex1/site-scdn-view-tutorial_inner.html at master · puppetMaster3-site.url">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workShop_Magic/src/Trans.ts">
+    <entry file="file://$PROJECT_DIR$/ex1/SUPERSCROLLORAMA.url">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workShop_Magic1/cdn/lax.html">
+    <entry file="file://$PROJECT_DIR$/ex2/Transforms.URL">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="26" selection-start="45" selection-end="45" vertical-scroll-proportion="0.014799154">
           <folding />
         </state>
       </provider>
