@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60713f6c-11c8-460a-9408-29a29c81191b" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\back2.svg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.js.map" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.js" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.css" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/views/backLayer.html" afterPath="$PROJECT_DIR$/ex2/aCDN/views/backLayer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.css" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.less" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex1/ROOT/index.html" afterPath="$PROJECT_DIR$/ex1/ROOT/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/ROOT/index2.html" afterPath="$PROJECT_DIR$/ex2/ROOT/index2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bikeSheding.iws" />
@@ -53,26 +42,7 @@
     <favorites_list name="bikeSheding" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="app2.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="39" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bikeSheding.ts" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="22" selection-start="1300" selection-end="1300" vertical-scroll-proportion="0.4916388">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -370,7 +340,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1244" y="0" width="1243" height="1600" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -379,7 +349,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14532872" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14532872" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -538,16 +508,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
+    <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="39" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0">
+        <state line="30" column="17" selection-start="800" selection-end="800" vertical-scroll-proportion="0.2625418">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.ts">
+    <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="22" selection-start="1300" selection-end="1300" vertical-scroll-proportion="0.4916388">
+        <state line="26" column="39" selection-start="776" selection-end="776" vertical-scroll-proportion="0.4516129">
           <folding />
         </state>
       </provider>

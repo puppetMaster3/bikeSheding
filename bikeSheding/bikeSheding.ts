@@ -27,6 +27,11 @@ Single page section
 */
 var viewDir:string;
 
+/**
+ * @param ht view
+ * @param id of container
+ * @param cb_
+ */
 function open(ht, id, cb_):void {
     console.log(viewDir)
 	$.get(viewDir + ht + '.html', function (resp_) {
@@ -34,7 +39,7 @@ function open(ht, id, cb_):void {
         $('#'+id).append(resp_)
 
         if (cb_) cb_()
-	})//$.get
+	})
 }//()
 
 /*
@@ -43,8 +48,8 @@ function open(ht, id, cb_):void {
 function forward(ht, id, cb_):void {
     //console.log(viewDir) // todo: tx?
 	$.get(viewDir + ht + '.html', function (resp_) {
-		//console.log(ht, id)
-		    $('#kontainer').append(resp_)
+		console.log(ht, id)
+		$('#kontainer').append(resp_)
 		var cur = $('#' + id)
 		var gid = id + Math.floor(Math.random() * 9999999) //GUID 1 in 10mm
 		cur.attr('id', gid)//change to guid - we could have many
@@ -56,7 +61,7 @@ function forward(ht, id, cb_):void {
 		    cur.height(b - t)
         } catch (err) { console.log(err)} // need more view measure functions
 		if (cb_) cb_(gid)
-	})//$.get
+	})
 }//()
 
 function cleanUpViews():void {
