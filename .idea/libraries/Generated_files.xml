@@ -8,7 +8,7 @@
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/ex1/aCDN/app/app.js" />
+      <root url="file://$PROJECT_DIR$/tut1/aCDN/app/app.js" />
       <root url="file://$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
       <root url="file://$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
     </CLASSES>
