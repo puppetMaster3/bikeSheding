@@ -1,7 +1,6 @@
 console.log ("ready 0.20")
 viewDir = '../aCDN/views/'
 
-declare var TweenLite; //animation
 declare var List;   // templates
 declare var CloudAPI;   // templates
 
@@ -30,4 +29,40 @@ load2But.addEventListener('click', function() {
 function iloaded2(id){
     cleanUpViews()
     console.log ("loaded2")
+}
+
+open('backLayer', 'animatingTile', function)
+
+function onBackLoaded() {
+    setTimeout(function(){
+        console.log('background')
+        setupBackground()
+    },1)
+}
+
+function scrollBackground() {
+    if(inProgress) {
+        return;
+    }
+    inProgress = true;
+    tweenBack.play();
+    setTimeout(function () {
+        console.log('parallax');
+        tweenBack.pause();
+        inProgress = false;
+    }, 800);
+}
+function setupBackground() {
+    inProgress = false;
+    var lefty1 = $('#animatingTile').position().left;
+    tweenBack = TweenMax.from($('#animatingTile'), 12, {
+        css: {
+            left: lefty1 - 1618
+        },
+        repeatDelay: 0,
+        useFrames: false,
+        repeat: -1,
+        ease: Linear.easeNone
+    });
+    tweenBack.pause();
 }

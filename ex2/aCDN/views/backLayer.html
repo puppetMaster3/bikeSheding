@@ -1,0 +1,43 @@
+<div id='animatingTile' class='animatingTile'>
+
+</div>
+
+<script>
+$(document).ready(function () {
+    setTimeout(function(){
+        console.log('background')
+        scrollBackgroundSet()
+    },1)
+
+})
+
+function scrollBackground() {
+    if(inProgress) {
+        return;
+    }
+    inProgress = true;
+    tweenBack.play();
+    setTimeout(function () {
+        console.log('parallax');
+        tweenBack.pause();
+        inProgress = false;
+    }, 800);
+}
+function setupBackground() {
+    inProgress = false;
+    var lefty1 = $('#animatingTile').position().left;
+    tweenBack = TweenMax.from($('#animatingTile'), 12, {
+        css: {
+            left: lefty1 - 1618
+        },
+        repeatDelay: 0,
+        useFrames: false,
+        repeat: -1,
+        ease: Linear.easeNone
+    });
+    tweenBack.pause();
+}
+
+</script>
+</body>
+</html>

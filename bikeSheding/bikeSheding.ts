@@ -29,17 +29,17 @@ Single page section
 */
 var viewDir:string;
 
-function open(ht, cb_):void {
+function open(ht, id, cb_):void {
     console.log(viewDir)
 	$.get(viewDir + ht + '.html', function (resp_) {
 		console.log(ht)
-        $('#kontainer').append(resp_)
+        $('#'+id).append(resp_)
 
         if (cb_) cb_()
 	})//$.get
 }//()
 
-/**
+/*
  *  returns #id
  */
 function forward(ht, id, cb_):void {

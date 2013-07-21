@@ -10,11 +10,11 @@ function initHRouter(inst) {
 
 var viewDir;
 
-function open(ht, cb_) {
+function open(ht, id, cb_) {
     console.log(viewDir);
     $.get(viewDir + ht + '.html', function (resp_) {
         console.log(ht);
-        $('#kontainer').append(resp_);
+        $('#' + id).append(resp_);
 
         if (cb_)
             cb_();
