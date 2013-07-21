@@ -5,6 +5,7 @@
   width: 4854px;
   height: 740px;
   z-index: -10;
+  top: 0;
 }
 body {
   background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f9f9f9), to(#5195ce), color-stop(0.5, #5195ce));
