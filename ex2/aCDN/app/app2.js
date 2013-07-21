@@ -1,4 +1,4 @@
-console.log("ready 0.20");
+console.log("ready 0.22");
 viewDir = '../aCDN/views/';
 
 var load1But = document.getElementById('load1');
@@ -20,7 +20,7 @@ function iloaded1(id) {
 
 var load2But = document.getElementById('load2');
 load2But.addEventListener('click', function () {
-    console.log("Test");
+    console.log("clicked 2");
     forward('view2', 'form', iloaded2);
 });
 
@@ -29,11 +29,8 @@ function iloaded2(id) {
     console.log("loaded2");
 }
 
-open('backLayer', 'animatingTile', onBack);
-
 function onBackLoaded() {
     setTimeout(function () {
-        console.log('background');
         setupBackground();
     }, 1);
 }
@@ -51,12 +48,11 @@ function scrollBackground() {
     }, 800);
 }
 function setupBackground() {
+    console.log('background:');
     inProgress = false;
     var lefty1 = $('#animatingTile').position().left;
     tweenBack = TweenMax.from($('#animatingTile'), 12, {
-        css: {
-            left: lefty1 - 1618
-        },
+        css: { left: lefty1 - 1618 },
         repeatDelay: 0,
         useFrames: false,
         repeat: -1,

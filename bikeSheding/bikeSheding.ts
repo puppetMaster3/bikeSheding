@@ -1,8 +1,6 @@
-/* v0.0712 - 95% of times you should not change this file
- (c) bikeSheding  @ http://github.com/puppetMaster3/bikeSheding
-*/
-
-console.log('bS')
+/* v0.0712 - 99% of times you should not change this file
+ (c) bikeSheding  @ http://github.com/puppetMaster3/bikeSheding */
+//console.log('bS')
 
 //presenter section
 interface IModPresenter {// ~ like direct mediator to manage a view(s)/template(s) and hold state
@@ -50,7 +48,7 @@ function forward(ht, id, cb_):void {
 		var cur = $('#' + id)
 		var gid = id + Math.floor(Math.random() * 9999999) //GUID 1 in 10mm
 		cur.attr('id', gid)//change to guid - we could have many
-		//console.log(cur.attr('id'))
+		console.log(cur.attr('id'))
 		if (!cur.attr('id')) throw new Error('id not found')
 		try{
             var t:number = $('header').height()

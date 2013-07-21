@@ -1,5 +1,3 @@
-console.log('bS');
-
 function initHRouter(inst) {
     console.log('hRouter ready');
     hasher.changed.add(inst._onUrlChanged, inst);
@@ -27,7 +25,7 @@ function forward(ht, id, cb_) {
         var cur = $('#' + id);
         var gid = id + Math.floor(Math.random() * 9999999);
         cur.attr('id', gid);
-
+        console.log(cur.attr('id'));
         if (!cur.attr('id'))
             throw new Error('id not found');
         try  {
