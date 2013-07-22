@@ -21,18 +21,17 @@ function open(ht, id, cb_) {
 
 function forward(ht, id, cb_) {
     $.get(viewDir + ht + '.html', function (resp_) {
-        console.log(ht, id);
         $('#kontainer').append(resp_);
         var cur = $('#' + id);
         var gid = id + Math.floor(Math.random() * 9999999);
         cur.attr('id', gid);
-        console.log(cur.attr('id'));
         if (!cur.attr('id'))
             throw new Error('id not found');
         try  {
             var t = $('header').height();
             var b = $('footer').position().top;
             cur.height(b - t);
+            console.log(ht, cur.attr('id'));
         } catch (err) {
             console.log(err);
         }
