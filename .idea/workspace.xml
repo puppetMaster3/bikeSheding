@@ -2,15 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60713f6c-11c8-460a-9408-29a29c81191b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" />
+      <change type="DELETED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\libs\swipe.js" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\avatar.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/avatar.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\bg_dark.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/bg_dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\breadcrumb.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/breadcrumb.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\checkbox_checked.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/checkbox_checked.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\checkbox_checked_dark.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/checkbox_checked_dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\checkbox_unchecked.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/checkbox_unchecked.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\checkbox_unchecked_dark.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/checkbox_unchecked_dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\checkmark_bw.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/checkmark_bw.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\dark-combo-box-bg.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/dark-combo-box-bg.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\dark-combo-box-bg2x.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/dark-combo-box-bg2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\dark-grips.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/dark-grips.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\dark-sprites2x.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/dark-sprites2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\dialog-zone-bg.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/dialog-zone-bg.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\drop-down-triangle-dark.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/drop-down-triangle-dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\drop-down-triangle.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/drop-down-triangle.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\hamburger_bw.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/hamburger_bw.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\hamburger_dark.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/hamburger_dark.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\hamburger_light.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/hamburger_light.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\light-combo-box-bg.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/light-combo-box-bg.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\light-combo-box-bg2x.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/light-combo-box-bg2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\light-grips.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/light-grips.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\light-sprites2x.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/light-sprites2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\pop-up-triangle-dark.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/pop-up-triangle-dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\pop-up-triangle.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/pop-up-triangle.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\search-bg.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/search-bg.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\search-bg2x.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/search-bg2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\search.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/search.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\search_bw.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/search_bw.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\search_dark.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/search_dark.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\search_light.svg" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/search_light.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\spinner.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/spinner.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\img\spinner2x.png" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/img/spinner2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\assets\topcoat-mobile-light.less" afterPath="$PROJECT_DIR$/ex2/aCDN/libs/topcoat-mobile-light.less" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\avatar.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/avatar.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\bg_dark.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/bg_dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\breadcrumb.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/breadcrumb.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\checkbox_checked.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/checkbox_checked.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\checkbox_checked_dark.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/checkbox_checked_dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\checkbox_unchecked.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/checkbox_unchecked.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\checkbox_unchecked_dark.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/checkbox_unchecked_dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\checkmark_bw.svg" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/checkmark_bw.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\dark-combo-box-bg.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/dark-combo-box-bg.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\dark-combo-box-bg2x.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/dark-combo-box-bg2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\dark-grips.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/dark-grips.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\dark-sprites2x.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/dark-sprites2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\dialog-zone-bg.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/dialog-zone-bg.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\drop-down-triangle-dark.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/drop-down-triangle-dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\drop-down-triangle.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/drop-down-triangle.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\hamburger_bw.svg" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/hamburger_bw.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\hamburger_dark.svg" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/hamburger_dark.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\hamburger_light.svg" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/hamburger_light.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\light-combo-box-bg.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/light-combo-box-bg.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\light-combo-box-bg2x.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/light-combo-box-bg2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\light-grips.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/light-grips.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\light-sprites2x.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/light-sprites2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\pop-up-triangle-dark.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/pop-up-triangle-dark.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\pop-up-triangle.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/pop-up-triangle.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\search-bg.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/search-bg.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\search-bg2x.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/search-bg2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\search.svg" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/search.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\search_bw.svg" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/search_bw.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\search_dark.svg" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/search_dark.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\search_light.svg" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/search_light.svg" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\spinner.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/spinner.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\img\spinner2x.png" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/img/spinner2x.png" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\topcoat-mobile-light.css" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/topcoat-mobile-light.css" />
+      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\assets\topcoat-mobile-light.less" afterPath="$PROJECT_DIR$/ex3/aCDN/libs/topcoat-mobile-light.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex3/ROOT/index3.html" afterPath="$PROJECT_DIR$/ex3/ROOT/index3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bikeSheding.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374529234152" ignored="false" />
+    <file path="/Dummy.txt" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374531466906" ignored="false" />
     <file path="/view1.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374382709351" ignored="false" />
     <file path="/app.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374379426414" ignored="false" />
     <file path="/app2.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374380025787" ignored="false" />
@@ -27,7 +92,7 @@
     <file path="/index2.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374451350586" ignored="false" />
     <file path="/backLayer.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374381636014" ignored="false" />
     <file path="/index.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374526598880" ignored="false" />
-    <file path="/index3.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374527590412" ignored="false" />
+    <file path="/index3.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374531118672" ignored="false" />
     <file path="/listTmpl.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374529298237" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,16 +116,7 @@
       <file leaf-file-name="index3.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex3/ROOT/index3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="0" selection-start="2356" selection-end="2356" vertical-scroll-proportion="0.7032419">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex2/ROOT/index2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="845" selection-end="884" vertical-scroll-proportion="-12.6">
+            <state line="88" column="2" selection-start="3183" selection-end="3183" vertical-scroll-proportion="0.5116279">
               <folding />
             </state>
           </provider>
@@ -223,6 +279,32 @@
               <option name="myItemId" value="aCDN" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aCDN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -322,6 +404,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aCDN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aCDN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -362,6 +488,8 @@
       <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2\aCDN\libs" />
+      <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3\aCDN\libs" />
       <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex3" />
       <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding" />
       <recent name="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\ex2" />
@@ -396,16 +524,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1244" y="0" width="1243" height="1600" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25581396" sideWeight="0.8802768" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27159467" sideWeight="0.8802768" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.119723186" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11920981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -477,9 +605,11 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex2/aCDN/views/view2.html">
+    <entry file="file://$PROJECT_DIR$/ex3/ROOT/index3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.less">
@@ -497,11 +627,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex2/aCDN/assets/topcoat-mobile-light.less">
+    <entry file="file://$PROJECT_DIR$/ex2/aCDN/libs/topcoat-mobile-light.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1073" column="0" selection-start="27093" selection-end="27093" vertical-scroll-proportion="0.91038406">
-          <folding />
-        </state>
+        <state line="1073" column="0" selection-start="27093" selection-end="27093" vertical-scroll-proportion="0.91038406" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -511,70 +639,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tut1/ROOT/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="78" selection-start="369" selection-end="447" vertical-scroll-proportion="0.15261628">
-          <folding />
-        </state>
+        <state line="10" column="78" selection-start="369" selection-end="447" vertical-scroll-proportion="0.15261628" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bikeSheding/hasher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex3/aCDN/assets/appStyle.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex3/aCDN/app/app3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex3/aCDN/views/listTmpl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="71" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.5790754">
-          <folding />
-        </state>
+        <state line="58" column="71" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.5790754" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex3/aCDN/app/app3.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.13483146">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.13483146" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="24" selection-start="786" selection-end="825" vertical-scroll-proportion="0.19101124">
-          <folding />
-        </state>
+        <state line="28" column="24" selection-start="786" selection-end="825" vertical-scroll-proportion="0.19101124" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/ROOT/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="845" selection-end="884" vertical-scroll-proportion="-12.6">
-          <folding />
-        </state>
+        <state line="18" column="0" selection-start="845" selection-end="884" vertical-scroll-proportion="-12.6" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex3/ROOT/index3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="2356" selection-end="2356" vertical-scroll-proportion="0.7032419">
+        <state line="88" column="2" selection-start="3183" selection-end="3183" vertical-scroll-proportion="0.5116279">
           <folding />
         </state>
       </provider>
