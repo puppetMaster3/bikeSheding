@@ -5,7 +5,49 @@ declare var List;   // templates
 declare var CloudAPI;   // templates
 declare var $;
 
-forward('listTmpl', 'listTmpl', iloaded1)
+gapp = new GWebApp()//calls constructor
+
+class GWebApp implements IAppNController {
+    pg1:FirstPg;
+    pg2:Pg2;
+    constructor() {
+        initHController(this)
+
+    }//()
+
+    _onUrlChanged(newUrl, oldUrl):void {
+        console.log('controller sayz: ',newUrl)
+        this.dispatch(newUrl,null)
+    }
+
+    dispatch(view:string, ctx:any):bool {
+        console.log(view)
+
+        return false;
+    }//()
+
+
+}//class
+
+
+class FirstPg implements IModPresenter {
+
+    _transition(transEnum:number, ctx:any):void {
+
+    }
+
+}
+
+class Pg2 implements IModPresenter {
+
+    _transition(transEnum:number, ctx:any):void {
+
+    }
+
+}
+
+
+//forward('listTmpl', 'listTmpl', iloaded1)
 
 function iloaded1(id){
     cleanUpViews()
@@ -17,15 +59,3 @@ function iloaded1(id){
     })
 }
 
-/*var load2But = document.getElementById('load2')
-load2But.addEventListener('click', function() {
-    console.log ("clicked 2")
-    scrollBackground();
-    forward('view2', 'form', iloaded2)
- })
-
-function iloaded2(id){
-    cleanUpViews()
-    console.log ("loaded2")
-}
-*/

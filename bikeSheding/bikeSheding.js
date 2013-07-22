@@ -1,4 +1,4 @@
-function initHRouter(ainst) {
+function initHController(ainst) {
     console.log('hRouter ready');
     hasher.changed.add(ainst._onUrlChanged, ainst);
     hasher.initialized.add(ainst._onUrlChanged, ainst);
@@ -13,7 +13,6 @@ function open(ht, id, cb_) {
     $.get(viewDir + ht + '.html', function (resp_) {
         console.log(ht);
         $('#' + id).append(resp_);
-
         if (cb_)
             cb_();
     });

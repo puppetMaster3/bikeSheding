@@ -16,9 +16,10 @@ interface IAppNController{ // has the app + action router, the global app
 }
 
 /**
+ *  should be first line in app constructor
  *  @param app
  */
-function initHRouter(ainst) {
+function initHController(ainst) {
 	console.log('hRouter ready')
  	hasher.changed.add(ainst._onUrlChanged, ainst)
 	hasher.initialized.add(ainst._onUrlChanged, ainst)
@@ -41,13 +42,12 @@ function open(ht, id, cb_):void {
 	$.get(viewDir + ht + '.html', function (resp_) {
 		console.log(ht)
         $('#'+id).append(resp_)
-
         if (cb_) cb_()
 	})
 }//()
 
 /*
- *  returns #id
+ *  bBs #id
  */
 function forward(ht, id, cb_):void {
 	$.get(viewDir + ht + '.html', function (resp_) {
