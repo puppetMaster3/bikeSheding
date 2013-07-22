@@ -10,7 +10,7 @@ interface IDivPresenter {// ~ like direct mediator to manage a view(s)/template(
 	_transition(transEnum:number, ctx:any):void; //enum
 }
 
-interface IAppNRouter { // starts the app + action controller
+interface IAppNController{ // has the app + action router, the global app
 	_onUrlChanged(newUrl, oldUrl):void;
 	dispatch(view:string, ctx:any):bool; //returns FALSE -for buttons
 }
