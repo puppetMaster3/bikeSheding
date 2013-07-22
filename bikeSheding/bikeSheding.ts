@@ -2,28 +2,33 @@
  (c) bikeSheding  @ http://github.com/puppetMaster3/bikeSheding */
 //console.log('bS')
 
+declare var $;
+declare var hasher;//simple router
+
 //presenter section
-interface IModPresenter {// ~ like direct mediator to manage a view(s)/template(s) and hold state
+interface IDivPresenter {// ~ like direct mediator to manage a view(s)/template(s) and hold state
 	_transition(transEnum:number, ctx:any):void; //enum
 }
 
-declare var hasher;//simple router
 
 interface IAppNRouter { // starts the app + action controller
 	_onUrlChanged(newUrl, oldUrl):void;
 	dispatch(view:string, ctx:any):bool; //returns FALSE -for buttons
 }
 
-function initHRouter(inst) {
+/**
+ *  @param app
+ */
+function initHRouter(ainst) {
 	console.log('hRouter ready')
- 	hasher.changed.add(inst._onUrlChanged, inst)
-	hasher.initialized.add(inst._onUrlChanged, inst)
+ 	hasher.changed.add(ainst._onUrlChanged, ainst)
+	hasher.initialized.add(ainst._onUrlChanged, ainst)
 	hasher.prependHash = '!' // SEO
 	hasher.init()
 }
 
 /*
-Single page section
+SPA section
 */
 var viewDir:string;
 
@@ -46,7 +51,6 @@ function open(ht, id, cb_):void {
  *  returns #id
  */
 function forward(ht, id, cb_):void {
-    //console.log(viewDir) // todo: tx?
 	$.get(viewDir + ht + '.html', function (resp_) {
 		$('#kontainer').append(resp_)
 		var cur = $('#' + id)

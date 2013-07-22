@@ -1,7 +1,7 @@
-function initHRouter(inst) {
+function initHRouter(ainst) {
     console.log('hRouter ready');
-    hasher.changed.add(inst._onUrlChanged, inst);
-    hasher.initialized.add(inst._onUrlChanged, inst);
+    hasher.changed.add(ainst._onUrlChanged, ainst);
+    hasher.initialized.add(ainst._onUrlChanged, ainst);
     hasher.prependHash = '!';
     hasher.init();
 }
