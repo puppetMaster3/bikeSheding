@@ -23,6 +23,7 @@ function forward(ht, id, cb_) {
     $.get(viewDir + ht + '.html', function (resp_) {
         $('#kontainer').append(resp_);
         var cur = $('#' + id);
+        console.log(ht, cur.attr('id'));
         var gid = id + Math.floor(Math.random() * 9999999);
         cur.attr('id', gid);
         if (!cur.attr('id'))
@@ -31,7 +32,6 @@ function forward(ht, id, cb_) {
             var t = $('header').height();
             var b = $('footer').position().top;
             cur.height(b - t);
-            console.log(ht, cur.attr('id'));
         } catch (err) {
             console.log(err);
         }

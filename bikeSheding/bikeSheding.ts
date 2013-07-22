@@ -54,14 +54,14 @@ function forward(ht, id, cb_):void {
 	$.get(viewDir + ht + '.html', function (resp_) {
 		$('#kontainer').append(resp_)
 		var cur = $('#' + id)
-		var gid = id + Math.floor(Math.random() * 9999999) //GUID 1 in 10mm
+        console.log(ht, cur.attr('id'))
+        var gid = id + Math.floor(Math.random() * 9999999) //GUID 1 in 10mm
 		cur.attr('id', gid)//change to guid - we could have many
 		if (!cur.attr('id')) throw new Error('id not found')
 		try{
             var t:number = $('header').height()
             var b:number = $('footer').position().top
 		    cur.height(b - t)
-            console.log(ht, cur.attr('id'))
         } catch (err) { console.log(err)} // need more view measure functions
 		if (cb_) cb_(gid)
 	})

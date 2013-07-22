@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60713f6c-11c8-460a-9408-29a29c81191b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tut1/ROOT/index.html" afterPath="$PROJECT_DIR$/tut1/ROOT/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/ROOT/index2.html" afterPath="$PROJECT_DIR$/ex2/ROOT/index2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bikeSheding.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,7 +76,7 @@
       <file leaf-file-name="bikeSheding.ts" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="36" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.59610707">
+            <state line="58" column="0" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.459854">
               <folding />
             </state>
           </provider>
@@ -185,6 +181,10 @@
               <option name="myItemId" value="ex3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ROOT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -197,10 +197,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ex3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ROOT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -335,7 +331,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1244" y="0" width="1243" height="1600" extended-state="1" />
+    <frame x="1244" y="0" width="1243" height="1600" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -512,7 +508,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="36" selection-start="1134" selection-end="1134" vertical-scroll-proportion="0.59610707">
+        <state line="58" column="0" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.459854">
           <folding />
         </state>
       </provider>
