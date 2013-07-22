@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60713f6c-11c8-460a-9408-29a29c81191b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.js.map" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.js" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.css" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.css" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.less" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/ROOT/index2.html" afterPath="$PROJECT_DIR$/ex2/ROOT/index2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bikeSheding.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,7 +64,7 @@
       <file leaf-file-name="bikeSheding.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="23" selection-start="280" selection-end="280" vertical-scroll-proportion="0.18554217">
+            <state line="7" column="4" selection-start="203" selection-end="203" vertical-scroll-proportion="0.118072286">
               <folding />
             </state>
           </provider>
@@ -574,7 +567,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="23" selection-start="280" selection-end="280" vertical-scroll-proportion="0.18554217">
+        <state line="7" column="4" selection-start="203" selection-end="203" vertical-scroll-proportion="0.118072286">
           <folding />
         </state>
       </provider>
