@@ -10,7 +10,6 @@ interface IDivPresenter {// ~ like direct mediator to manage a view(s)/template(
 	_transition(transEnum:number, ctx:any):void; //enum
 }
 
-
 interface IAppNRouter { // starts the app + action controller
 	_onUrlChanged(newUrl, oldUrl):void;
 	dispatch(view:string, ctx:any):bool; //returns FALSE -for buttons
@@ -57,7 +56,7 @@ function forward(ht, id, cb_):void {
         console.log(ht, cur.attr('id'))
         var gid = id + Math.floor(Math.random() * 9999999) //GUID 1 in 10mm
 		cur.attr('id', gid)//change to guid - we could have many
-		if (!cur.attr('id')) throw new Error('id not found')
+		if (!cur.attr('id')) throw new Error('id not found or kontainer')
 		try{
             var t:number = $('header').height()
             var b:number = $('footer').position().top

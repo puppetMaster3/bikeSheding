@@ -27,7 +27,7 @@ function forward(ht, id, cb_) {
         var gid = id + Math.floor(Math.random() * 9999999);
         cur.attr('id', gid);
         if (!cur.attr('id'))
-            throw new Error('id not found');
+            throw new Error('id not found or kontainer');
         try  {
             var t = $('header').height();
             var b = $('footer').position().top;
