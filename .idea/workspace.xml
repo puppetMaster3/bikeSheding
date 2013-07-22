@@ -5,6 +5,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.js.map" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.js" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" afterPath="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.css" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less" afterPath="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.css" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.less" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex2/ROOT/index2.html" afterPath="$PROJECT_DIR$/ex2/ROOT/index2.html" />
@@ -25,8 +27,8 @@
     <file path="C:/tmp/ca_1.primusapi.com-tst-toDo.html.url" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374361293378" ignored="false" />
     <file path="C:/tmp/Apache Cordova.url" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374361589672" ignored="false" />
     <file path="/back.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374378980224" ignored="false" />
-    <file path="/appStyle.less" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374383107715" ignored="false" />
-    <file path="/index2.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374450223537" ignored="false" />
+    <file path="/appStyle.less" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374451331129" ignored="false" />
+    <file path="/index2.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374451350586" ignored="false" />
     <file path="/backLayer.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374381636014" ignored="false" />
     <file path="$PROJECT_DIR$/bikeSheding/bikeSheding.js" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374382298100" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,7 +53,34 @@
       <file leaf-file-name="index2.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex2/ROOT/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="58" selection-start="847" selection-end="847" vertical-scroll-proportion="-13.3">
+            <state line="11" column="28" selection-start="580" selection-end="580" vertical-scroll-proportion="-7.7">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appStyle.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="2" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bikeSheding.less" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="23" selection-start="280" selection-end="280" vertical-scroll-proportion="0.18554217">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app2.ts" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="18" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,51 +99,6 @@
         <entry file="file://$PROJECT_DIR$/ex2/aCDN/views/view2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bikeSheding.less" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="43" selection-start="531" selection-end="531" vertical-scroll-proportion="0.30443975">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app2.ts" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="53" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tut1/aCDN/views/view1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view2.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tut1/aCDN/views/view2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tut1/ROOT/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="65" selection-start="824" selection-end="876" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -147,8 +131,8 @@
         <option value="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" />
         <option value="$PROJECT_DIR$/ex2/aCDN/views/view1.html" />
         <option value="$PROJECT_DIR$/ex2/aCDN/views/view2.html" />
-        <option value="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less" />
         <option value="$PROJECT_DIR$/ex1/ROOT/index.html" />
+        <option value="$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less" />
         <option value="$PROJECT_DIR$/ex2/ROOT/index2.html" />
         <option value="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" />
         <option value="$PROJECT_DIR$/bikeSheding/bikeSheding.less" />
@@ -261,6 +245,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="ROOT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="aCDN" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -284,6 +286,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="aCDN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aCDN" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -383,7 +407,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.120415226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.120415226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -480,11 +504,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state line="83" column="13" selection-start="2111" selection-end="2111" vertical-scroll-proportion="0.0">
@@ -499,7 +518,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tut1/ROOT/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="65" selection-start="824" selection-end="876" vertical-scroll-proportion="0.0">
+        <state line="26" column="65" selection-start="824" selection-end="876" vertical-scroll-proportion="0.39680234">
           <folding />
         </state>
       </provider>
@@ -518,16 +537,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
+    <entry file="file://$PROJECT_DIR$/ex2/ROOT/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="53" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0">
+        <state line="11" column="28" selection-start="580" selection-end="580" vertical-scroll-proportion="-7.7">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex2/ROOT/index2.html">
+    <entry file="file://$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="58" selection-start="847" selection-end="847" vertical-scroll-proportion="-13.3">
+        <state line="17" column="2" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="379" selection-end="379" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -548,7 +574,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bikeSheding/bikeSheding.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="43" selection-start="531" selection-end="531" vertical-scroll-proportion="0.30443975">
+        <state line="11" column="23" selection-start="280" selection-end="280" vertical-scroll-proportion="0.18554217">
           <folding />
         </state>
       </provider>

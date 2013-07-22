@@ -8,7 +8,7 @@ declare var $;
 var load1But = document.getElementById('load1')
 load1But.addEventListener('click', function() {
     console.log ("clicked 1")
-    scrollBackground();
+    //scrollBackground();
     forward('view1', 'view1', iloaded1)
   })
 function iloaded1(id){
@@ -25,7 +25,7 @@ function iloaded1(id){
 var load2But = document.getElementById('load2')
 load2But.addEventListener('click', function() {
     console.log ("clicked 2")
-    scrollBackground();
+    //scrollBackground();
     forward('view2', 'form', iloaded2)
  })
 
@@ -34,7 +34,7 @@ function iloaded2(id){
     console.log ("loaded2")
 }
 
-open('backLayer', 'back', onBackLoaded)
+//open('backLayer', 'back', onBackLoaded)
 function onBackLoaded() {
     setTimeout(function(){
         document.getElementById("animatingTile").style.backgroundImage=
