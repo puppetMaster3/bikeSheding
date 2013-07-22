@@ -1,39 +1,23 @@
-console.log ("ready 0.3")
-viewDir = '../aCDN/views/'
-
 declare var List;   // templates
 declare var CloudAPI;   // templates
 declare var $;
 
-gapp = new GWebApp()//calls constructor
-
-class GWebApp implements IAppNController {
-    pg1:FirstPg;
-    pg2:Pg2;
+class FirstPg implements IModPresenter {
     constructor() {
-        initHController(this)
 
-    }//()
-
-    _onUrlChanged(newUrl, oldUrl):void {
-        console.log('controller sayz: ',newUrl)
-        this.dispatch(newUrl,null)
+    }
+        _transition(transEnum:number, ctx:any):void {
+        forward('listTmpl', 'listTmpl', this.iloaded1)
     }
 
-    dispatch(view:string, ctx:any):bool {
-        console.log(view)
-
-        return false;
-    }//()
-
-
-}//class
-
-
-class FirstPg implements IModPresenter {
-
-    _transition(transEnum:number, ctx:any):void {
-
+    iloaded1(id){
+        cleanUpViews()
+        console.log ("loaded1 " + id)
+        var but1 = document.getElementById('but1')
+        but1.addEventListener('click', function() {
+            console.log ("clicked ")
+            gapp.dispatch('pg2')
+        })
     }
 
 }
@@ -41,21 +25,45 @@ class FirstPg implements IModPresenter {
 class Pg2 implements IModPresenter {
 
     _transition(transEnum:number, ctx:any):void {
-
+         console.log('form now')
     }
 
 }
 
+class GWebApp implements IAppNController {
+    pg1:FirstPg;
+    pg2:Pg2;
+    constructor() {
+        console.log ("ready 0.3")
+        viewDir = '../aCDN/views/'
+        this.pg1 = new FirstPg();
+        this.pg2 = new Pg2();
+        initHController(this)
 
-//forward('listTmpl', 'listTmpl', iloaded1)
+    }//()
+    _onUrlChanged(newUrl, oldUrl):void {//boilerplate code
+        this.dispatch(newUrl,null)
+    }
 
-function iloaded1(id){
-    cleanUpViews()
-    console.log ("loaded1 " + id)
-    var but1 = document.getElementById('but1')
-    but1.addEventListener('click', function() {
-        console.log ("clicked ")
+    dispatch(view:string, ctx:any):bool {
+        console.log('controller sayz: ',view)
+        if(view==null || view.length<1)
+            this.pg1._transition()
 
-    })
-}
+        if('pg2'==view)
+            this.pg2._transition()
+
+
+        //boilerplate code
+        hasher.changed.active = false; //disable changed signal
+        hasher.setHash(view); //set hash without dispatching changed signal
+        hasher.changed.active = true;
+        return false;
+    }//()
+
+
+}//class
+
+gapp = new GWebApp()//calls constructor
+
 

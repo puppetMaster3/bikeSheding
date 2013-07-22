@@ -6,6 +6,9 @@ declare var $;
 declare var hasher;//simple router
 
 //presenter section
+/**
+ * Each view should position and manage self
+ */
 interface IDivPresenter {// ~ like direct mediator to manage a view(s)/template(s) and hold state
 	_transition(transEnum:number, ctx:any):void; //enum
 }
