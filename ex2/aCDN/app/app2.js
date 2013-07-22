@@ -4,7 +4,7 @@ viewDir = '../aCDN/views/';
 var load1But = document.getElementById('load1');
 load1But.addEventListener('click', function () {
     console.log("clicked 1");
-
+    scrollBackground();
     forward('view1', 'view1', iloaded1);
 });
 function iloaded1(id) {
@@ -22,7 +22,7 @@ function iloaded1(id) {
 var load2But = document.getElementById('load2');
 load2But.addEventListener('click', function () {
     console.log("clicked 2");
-
+    scrollBackground();
     forward('view2', 'form', iloaded2);
 });
 
@@ -31,6 +31,7 @@ function iloaded2(id) {
     console.log("loaded2");
 }
 
+open('backLayer', 'back', onBackLoaded);
 function onBackLoaded() {
     setTimeout(function () {
         document.getElementById("animatingTile").style.backgroundImage = "url(../aCDN/assets/parallax_clouds.png)";

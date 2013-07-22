@@ -23,7 +23,6 @@ body {
   background-size: cover;
   z-index: 10;
   background: transparent;
-  opacity: 0.0;
   background-repeat: no-repeat;
 }
 footer {
