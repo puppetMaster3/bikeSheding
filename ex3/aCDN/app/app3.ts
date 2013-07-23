@@ -2,12 +2,12 @@ declare var List;   // templates
 declare var CloudAPI;   // templates
 declare var $;
 
-class FirstPg implements IModPresenter {
+class FirstPg implements IModPresenter { // each view should be separate
     constructor() {
 
     }
-        _transition(transEnum:number, ctx:any):void {
-        forward('listTmpl', 'listTmpl', this.iloaded1)
+    _transition(transEnum:number, ctx:any):void {
+          forward('listTmpl', 'listTmpl', this.iloaded1)
     }
 
     iloaded1(id){
@@ -18,6 +18,19 @@ class FirstPg implements IModPresenter {
             console.log ("clicked ")
             gapp.dispatch('pg2')
         })
+
+        // templates starts
+        var options = {
+            item: 'hacker-item'
+        };
+
+        var values = [
+            { name: 'Jonny', city:'Stockholm' }
+            , { name: 'Jonas', city:'Berlin' }
+        ];
+
+        var hackerList = new List('hacker-list', options, values);
+        //template ends
     }
 
 }
@@ -60,7 +73,6 @@ class GWebApp implements IAppNController {
         hasher.changed.active = true;
         return false;
     }//()
-
 
 }//class
 

@@ -2,12 +2,14 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/zCMS/aCDN/app/app.js" />
         <item url="file://$PROJECT_DIR$/ex3/aCDN/app/app3.js" />
         <item url="file://$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
         <item url="file://$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/zCMS/aCDN/app/app.js" />
       <root url="file://$PROJECT_DIR$/tut1/aCDN/app/app.js" />
       <root url="file://$PROJECT_DIR$/ex3/aCDN/app/app3.js" />
       <root url="file://$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
