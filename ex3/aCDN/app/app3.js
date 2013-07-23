@@ -14,6 +14,13 @@ var FirstPg = (function () {
             gapp.dispatch('pg2');
         });
 
+        cloudAPI.select('todo', null, gapp.pg1.onRet);
+    };
+
+    FirstPg.prototype.onRet = function (data) {
+        console.log(JSON.stringify(data));
+        console.log(data);
+
         var options = {
             item: 'hacker-item'
         };
@@ -41,6 +48,7 @@ var GWebApp = (function () {
     function GWebApp() {
         console.log("ready 0.3");
         viewDir = '../aCDN/views/';
+        cloudAPI = new CloudAPI();
         this.pg1 = new FirstPg();
         this.pg2 = new Pg2();
         initHController(this);
@@ -51,7 +59,7 @@ var GWebApp = (function () {
 
     GWebApp.prototype.dispatch = function (view, ctx) {
         console.log('controller sayz: ', view);
-        if (view == null || view.length < 1)
+        if ('pg1' == view || view == null || view.length < 1)
             this.pg1._transition();
 
         if ('pg2' == view)

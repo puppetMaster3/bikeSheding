@@ -4,19 +4,27 @@ snapper = new Snap({
 
 viewDir = '../aCDN/view/';
 showRead();
-function onLoaded() {
+function showRead() {
+    forward('read', 'read', onLoadedR);
+}
+function onLoadedR() {
     console.log("loaded");
     cleanUpViews();
     snapper.close();
-}
-function showRead() {
-    forward('read', 'read', onLoaded);
 }
 
 cAPI = new CloudAPI();
 var editBut = document.getElementById('edit');
 editBut.addEventListener('click', function () {
     console.log('edit');
-    forward('form', 'form', onLoaded);
+    forward('form', 'form', onLoadedF);
 });
+function onLoadedF() {
+    console.log("loaded");
+    cleanUpViews();
+    snapper.close();
+}
+
+var showBut = document.getElementById('show');
+showBut.addEventListener('click', showRead);
 //@ sourceMappingURL=app.js.map

@@ -2,38 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60713f6c-11c8-460a-9408-29a29c81191b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zCMS/aCDN/view/form.html" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\ROOT\Old.js" afterPath="$PROJECT_DIR$/atut1/ROOT/Old.js" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\ROOT\index.html" afterPath="$PROJECT_DIR$/atut1/ROOT/index.html" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\ROOT\ts1.html" afterPath="$PROJECT_DIR$/atut1/ROOT/ts1.html" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\aCDN\app\app.js" afterPath="$PROJECT_DIR$/atut1/aCDN/app/app.js" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\aCDN\app\app.js.map" afterPath="$PROJECT_DIR$/atut1/aCDN/app/app.js.map" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\aCDN\app\app.ts" afterPath="$PROJECT_DIR$/atut1/aCDN/app/app.ts" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\aCDN\assets\cloud.gif" afterPath="$PROJECT_DIR$/atut1/aCDN/assets/cloud.gif" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\aCDN\assets\cloudAPI.jpg" afterPath="$PROJECT_DIR$/atut1/aCDN/assets/cloudAPI.jpg" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\aCDN\assets\hero.jpg" afterPath="$PROJECT_DIR$/atut1/aCDN/assets/hero.jpg" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\aCDN\assets\parallax_clouds.png" afterPath="$PROJECT_DIR$/atut1/aCDN/assets/parallax_clouds.png" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\aCDN\views\view1.html" afterPath="$PROJECT_DIR$/atut1/aCDN/views/view1.html" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\aCDN\views\view2.html" afterPath="$PROJECT_DIR$/atut1/aCDN/views/view2.html" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\misc\24 ways- How to Make Your Site Look Half-Decent in Half an Hour.url" afterPath="$PROJECT_DIR$/atut1/misc/24 ways- How to Make Your Site Look Half-Decent in Half an Hour.url" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\misc\SUPERSCROLLORAMA.url" afterPath="$PROJECT_DIR$/atut1/misc/SUPERSCROLLORAMA.url" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\misc\View vs View+JavaScript - YouTube.url" afterPath="$PROJECT_DIR$/atut1/misc/View vs View+JavaScript - YouTube.url" />
-      <change type="MOVED" beforePath="C:\Users\PrimusAPI_Vic\Documents\GitHub\bikeSheding\tut1\misc\site-scdn-view-tutorial_inner.html at master · puppetMaster3-site.url" afterPath="$PROJECT_DIR$/atut1/misc/site-scdn-view-tutorial_inner.html at master · puppetMaster3-site.url" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zCMS/aCDN/app/app.js.map" afterPath="$PROJECT_DIR$/zCMS/aCDN/app/app.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zCMS/aCDN/app/app.js" afterPath="$PROJECT_DIR$/zCMS/aCDN/app/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zCMS/aCDN/app/app.ts" afterPath="$PROJECT_DIR$/zCMS/aCDN/app/app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" afterPath="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex3/aCDN/app/app3.js.map" afterPath="$PROJECT_DIR$/ex3/aCDN/app/app3.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex3/aCDN/app/app3.js" afterPath="$PROJECT_DIR$/ex3/aCDN/app/app3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex3/aCDN/app/app3.ts" afterPath="$PROJECT_DIR$/ex3/aCDN/app/app3.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zCMS/ROOT/index.html" afterPath="$PROJECT_DIR$/zCMS/ROOT/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex3/ROOT/index3.html" afterPath="$PROJECT_DIR$/ex3/ROOT/index3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zCMS/aCDN/view/read.html" afterPath="$PROJECT_DIR$/zCMS/aCDN/view/read.html" />
     </list>
     <ignored path="bikeSheding.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374540811687" ignored="false" />
+    <file path="/Dummy.txt" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374544861828" ignored="false" />
     <file path="/view1.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374382709351" ignored="false" />
-    <file path="/app.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374540853335" ignored="false" />
+    <file path="/app.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374545441190" ignored="false" />
     <file path="/app2.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374380025787" ignored="false" />
     <file path="/bikeSheding.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374533580378" ignored="false" />
     <file path="/view2.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374382716039" ignored="false" />
@@ -47,11 +30,12 @@
     <file path="/appStyle.less" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374538897521" ignored="false" />
     <file path="/index2.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374451350586" ignored="false" />
     <file path="/backLayer.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374381636014" ignored="false" />
-    <file path="/index.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374540233931" ignored="false" />
+    <file path="/index.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374545345584" ignored="false" />
     <file path="/index3.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374531118672" ignored="false" />
     <file path="/listTmpl.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374532830148" ignored="false" />
-    <file path="/app3.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374535987403" ignored="false" />
+    <file path="/app3.ts" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374545945665" ignored="false" />
     <file path="/form.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374539708238" ignored="false" />
+    <file path="/read.html" changelist="60713f6c-11c8-460a-9408-29a29c81191b" time="1374545390294" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,16 +58,16 @@
       <file leaf-file-name="app3.ts" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex3/aCDN/app/app3.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="26" selection-start="681" selection-end="682" vertical-scroll-proportion="0.42194745">
+            <state line="22" column="52" selection-start="617" selection-end="617" vertical-scroll-proportion="0.35703245">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listTmpl.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex3/aCDN/views/listTmpl.html">
+      <file leaf-file-name="index3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex3/ROOT/index3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="29" selection-start="849" selection-end="849" vertical-scroll-proportion="-14.0">
+            <state line="110" column="56" selection-start="4278" selection-end="4278" vertical-scroll-proportion="-34.7">
               <folding />
             </state>
           </provider>
@@ -107,22 +91,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ex2/aCDN/app/app2.ts" />
         <option value="$PROJECT_DIR$/ex2/aCDN/assets/topcoat-mobile-light.css" />
         <option value="$PROJECT_DIR$/ex2/aCDN/assets/topcoat-mobile-light.less" />
         <option value="$PROJECT_DIR$/tut1/ROOT/index.html" />
         <option value="$PROJECT_DIR$/ex2/ROOT/index2.html" />
         <option value="$PROJECT_DIR$/ex3/aCDN/assets/appStyle.less" />
-        <option value="$PROJECT_DIR$/ex3/ROOT/index3.html" />
         <option value="$PROJECT_DIR$/old/old_workShop_Magic1/cdn/view/TList.html" />
         <option value="$PROJECT_DIR$/ex3/aCDN/views/view2.html" />
         <option value="$PROJECT_DIR$/ex3/aCDN/views/listTmpl.html" />
-        <option value="$PROJECT_DIR$/ex3/aCDN/app/app3.ts" />
         <option value="$PROJECT_DIR$/zCMS/aCDN/assets/appStyle.less" />
         <option value="$PROJECT_DIR$/zCMS/aCDN/view/form.html" />
-        <option value="$PROJECT_DIR$/zCMS/ROOT/index.html" />
         <option value="$PROJECT_DIR$/bikeSheding/bikeSheding.ts" />
+        <option value="$PROJECT_DIR$/zCMS/ROOT/index.html" />
+        <option value="$PROJECT_DIR$/zCMS/aCDN/view/read.html" />
         <option value="$PROJECT_DIR$/zCMS/aCDN/app/app.ts" />
+        <option value="$PROJECT_DIR$/ex3/ROOT/index3.html" />
+        <option value="$PROJECT_DIR$/ex3/aCDN/app/app3.ts" />
       </list>
     </option>
   </component>
@@ -173,6 +157,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bikeSheding" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ROOT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,20 +258,6 @@
               <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bikeSheding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -328,7 +316,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24169435" sideWeight="0.9134948" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18770765" sideWeight="0.9134948" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -430,23 +418,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zCMS/aCDN/view/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="213" selection-end="213" vertical-scroll-proportion="0.099683546">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zCMS/aCDN/app/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="197" selection-end="197" vertical-scroll-proportion="0.16228747">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="213" selection-end="213" vertical-scroll-proportion="0.099683546" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/atut1/aCDN/app/app.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/aCDN/app/app2.ts">
@@ -458,30 +435,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/aCDN/assets/appStyle.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="3" selection-start="114" selection-end="129" vertical-scroll-proportion="0.114754096">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zCMS/ROOT/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="51" selection-start="787" selection-end="787" vertical-scroll-proportion="-0.52757794">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zCMS/aCDN/view/read.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex3/ROOT/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="7" column="3" selection-start="114" selection-end="129" vertical-scroll-proportion="0.114754096" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex2/ROOT/index2.html">
@@ -500,14 +454,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex3/aCDN/views/listTmpl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="29" selection-start="849" selection-end="849" vertical-scroll-proportion="-14.0">
+        <state line="20" column="29" selection-start="849" selection-end="849" vertical-scroll-proportion="0.30523255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zCMS/aCDN/view/read.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="26" selection-start="1235" selection-end="1235" vertical-scroll-proportion="-14.7">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zCMS/ROOT/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="34" selection-start="1088" selection-end="1088" vertical-scroll-proportion="-9.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zCMS/aCDN/app/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="23" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex3/ROOT/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="110" column="56" selection-start="4278" selection-end="4278" vertical-scroll-proportion="-34.7">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex3/aCDN/app/app3.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="26" selection-start="681" selection-end="682" vertical-scroll-proportion="0.42194745">
+        <state line="22" column="52" selection-start="617" selection-end="617" vertical-scroll-proportion="0.35703245">
           <folding />
         </state>
       </provider>

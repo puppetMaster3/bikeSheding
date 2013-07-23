@@ -19,6 +19,14 @@ class FirstPg implements IModPresenter { // each view should be separate
             gapp.dispatch('pg2')
         })
 
+
+        cloudAPI.select('todo', null, gapp.pg1.onRet)      // see docs on selectAll
+
+    }
+
+    onRet(data) {
+        console.log(JSON.stringify(data))
+        console.log(data)
         // templates starts
         var options = {
             item: 'hacker-item'
@@ -49,6 +57,7 @@ class GWebApp implements IAppNController {
     constructor() {
         console.log ("ready 0.3")
         viewDir = '../aCDN/views/'
+        cloudAPI = new CloudAPI()
         this.pg1 = new FirstPg();
         this.pg2 = new Pg2();
         initHController(this)
@@ -60,12 +69,11 @@ class GWebApp implements IAppNController {
 
     dispatch(view:string, ctx:any):bool {
         console.log('controller sayz: ',view)
-        if(view==null || view.length<1)
+        if('pg1'==view || view==null || view.length<1)
             this.pg1._transition()
 
         if('pg2'==view)
             this.pg2._transition()
-
 
         //boilerplate code
         hasher.changed.active = false; //disable changed signal
