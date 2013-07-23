@@ -1,9 +1,58 @@
-var snapper = new Snap({
+snapper = new Snap({
     element: document.getElementById('content')
 })
 
 viewDir = '../aCDN/view/'
-forward('read','read',this._onLoaded)
+showRead()
 function onLoaded() {
-    console.log("ready")
+    console.log("loaded")
+    cleanUpViews()
+    snapper.close()
 }
+function showRead() {
+    forward('read','read', onLoaded)
+}
+
+cAPI=new CloudAPI()
+var editBut = document.getElementById('edit')
+editBut.addEventListener('click', function() {
+    console.log('edit')
+    forward('form','form', onLoaded)
+})
+
+
+
+
+/*
+
+var newAppBut = document.getElementById('create')
+newAppBut.addEventListener('click', function(e) {
+    var ename =new Object()
+    var firstname = $('#firstname').val()
+    var lastname = $('#lastname').val()
+    ename.firstname=firstname
+    ename.lastname=lastname
+    console.log("clicked " + firstname +", " + lastname)
+    cAPI.insert("nameapp",ename, onPK)
+})
+
+function onPK(data){
+    console.log('back')
+    //console.log(data)
+}
+
+$('#lookup').click(function(){
+    var ename =new Object()
+    var firstname = $('#firstname').val()
+    ename.firstname=firstname
+    console.log("clicked " + firstname)
+    cAPI.select("nameapp", ename, onFound)
+})
+
+function onFound(data){
+    console.log(data.array_)
+    $("#firstname").val(data.array_[0].firstname)
+    $("#lastname").val(data.array_[0].lastname)
+}
+
+*/

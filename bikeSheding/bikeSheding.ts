@@ -71,7 +71,7 @@ function forward(ht, id, cb_):void {
 
 function cleanUpViews():void {
 	var views = $('#kontainer').children()
-	//console.log(views.length)
+	console.log(views.length)
 	while (views.length > 1) {
 		var old = views.get(0)
 		old.parentNode.removeChild(old)
