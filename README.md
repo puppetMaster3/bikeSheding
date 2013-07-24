@@ -10,7 +10,7 @@ open terminal in ex1 directory and 'python -m SimpleHTTPServer' or similar - the
 
 Recommended but not required:
 * chrome  (and open the developer console)
-* npm -g install typescript
+* npm -g install typescript (optional, it's all .js)
 * WebStorm IDE
 * tablet
 

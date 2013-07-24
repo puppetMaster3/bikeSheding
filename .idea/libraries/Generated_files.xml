@@ -3,17 +3,18 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/zCMS/aCDN/app/app.js" />
+        <item url="file://$PROJECT_DIR$/atut1/aCDN/app/app.js" />
         <item url="file://$PROJECT_DIR$/ex3/aCDN/app/app3.js" />
-        <item url="file://$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
         <item url="file://$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
+        <item url="file://$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/zCMS/aCDN/app/app.js" />
       <root url="file://$PROJECT_DIR$/atut1/aCDN/app/app.js" />
       <root url="file://$PROJECT_DIR$/ex3/aCDN/app/app3.js" />
-      <root url="file://$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
       <root url="file://$PROJECT_DIR$/bikeSheding/bikeSheding.js" />
+      <root url="file://$PROJECT_DIR$/ex2/aCDN/app/app2.js" />
     </CLASSES>
     <SOURCES />
   </library>
