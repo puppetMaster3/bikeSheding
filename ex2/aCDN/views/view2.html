@@ -11,13 +11,12 @@
 
     var newAppBut = document.getElementById('create')
     newAppBut.addEventListener('click', function(e) {
-        var ename =new Object()
         var firstname = $('#firstname').val()
         var lastname = $('#lastname').val()
-        ename.firstname=firstname
-        ename.lastname=lastname
         console.log("clicked " + firstname +", " + lastname)
-        cAPI.insert("nameapp",ename, onPK)
+
+        //TYPE LAB HERE
+
     })
 
     function onPK(data){
@@ -35,8 +34,7 @@
 
     function onFound(data){
         console.log(data.array_)
-        $("#firstname").val(data.array_[0].firstname)
-        $("#lastname").val(data.array_[0].lastname)
+        // TYPE LAB here
     }
 
 </script>

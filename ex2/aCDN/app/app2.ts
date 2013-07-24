@@ -5,36 +5,13 @@ declare var List;   // templates
 declare var CloudAPI;   // templates
 declare var $;
 
-var load1But = document.getElementById('load1')
-load1But.addEventListener('click', function() {
-    console.log ("clicked 1")
-    scrollBackground();
-    forward('view1', 'view1', iloaded1)
-  })
-function iloaded1(id){
-    cleanUpViews()
-    console.log ("loaded1 " + id)
-    var div=document.getElementById(id)
-    TweenLite.from(div,.4
-        ,{css:{rotationY:-90, transformOrigin:"300% ",  rotation:-1}
-            ,onComplete:function(){
-            console.log('animated') }
-        })
- }
+// insert LAB2 pdf code here:
 
-var load2But = document.getElementById('load2')
-load2But.addEventListener('click', function() {
-    console.log ("clicked 2")
-    scrollBackground();
-    forward('view2', 'form', iloaded2)
- })
 
-function iloaded2(id){
-    cleanUpViews()
-    console.log ("loaded2")
-}
 
-open('backLayer', 'back', onBackLoaded)
+// lab code above
+
+//open('backLayer', 'back', onBackLoaded)
 function onBackLoaded() {
     setTimeout(function(){
         document.getElementById("animatingTile").style.backgroundImage=
