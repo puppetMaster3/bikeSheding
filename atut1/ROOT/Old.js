@@ -1,11 +1,8 @@
 
-
 function foo() {
-	bar('Karl')
+	bar(1)
 }
-
 function bar(arg) {
 	console.log('yes, ' + arg)
 }
-
 foo()
