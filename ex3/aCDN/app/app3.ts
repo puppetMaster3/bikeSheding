@@ -72,8 +72,8 @@ class GWebApp implements IAppNController {
         if('pg1'==view || view==null || view.length<1)
             this.pg1._transition()
 
-        if('pg2'==view)
-            this.pg2._transition()
+        //if('pg2'==view)
+            //this.pg2._transition()
 
         //boilerplate code
         hasher.changed.active = false; //disable changed signal

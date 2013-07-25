@@ -62,9 +62,6 @@ var GWebApp = (function () {
         if ('pg1' == view || view == null || view.length < 1)
             this.pg1._transition();
 
-        if ('pg2' == view)
-            this.pg2._transition();
-
         hasher.changed.active = false;
         hasher.setHash(view);
         hasher.changed.active = true;
