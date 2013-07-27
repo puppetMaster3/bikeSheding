@@ -1,8 +1,8 @@
-
 function foo() {
-	bar(1)
+    bar(1);
 }
 function bar(arg) {
-	console.log('yes, ' + arg)
+    console.log('yes, ' + arg);
 }
-foo()
+foo();
+//@ sourceMappingURL=Old.js.map
