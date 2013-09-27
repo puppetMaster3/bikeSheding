@@ -1,1 +1,1 @@
-moved to https://github.com/shawea/blueGrass
+moved to http://github.com/puppetMaster3/blueGrass
